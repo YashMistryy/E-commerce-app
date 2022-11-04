@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "hp pavilion"
+    },
+    {
+      "id": 2,
+      "name": "macbook"
+    },
+    {
+      "id": 3,
+      "name": "zenbook"
+    },
+    {
+      "id": 4,
+      "name": "acer nitro"
+    }
+  ]
+}
